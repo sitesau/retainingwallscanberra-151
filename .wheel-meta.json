@@ -1,0 +1,22 @@
+{
+  "wheel_id": 465,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-151",
+  "project": "retaining-wall-builders-canberra-ad94eb1a3c9a5ed1a61638b4e05",
+  "parent_t1_ref": "retainingwallscanberra-005",
+  "node_role": "buffer",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-canberra-ad94eb1a3c9a5ed1a61638b4e05/",
+  "tier": "T2",
+  "writeback_nonce": "8076f22e4fcc5327",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-builders-canberra-005/",
+      "anchor": "Retaining Wall Builders Canberra: A Site Scope Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
